@@ -1,0 +1,25 @@
+@media screen and (max-width:700px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .title-image{
+        height: 3rem;
+    }
+    button{
+        margin-top: 5px;
+    }
+    .primary-movie .container{
+        width: 70%;
+    }
+    .carousel-my-list {
+        margin-left: 45px;
+    }
+    .carousel-popular {
+        margin-left: 45px;
+        padding: 300px 0px 0px 0px;
+    }
+
+}
+
